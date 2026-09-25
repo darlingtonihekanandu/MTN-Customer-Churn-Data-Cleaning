@@ -1,4 +1,4 @@
-# Customer Data Cleaning & Quality Preparation
+# MTN Customer Churn Data Cleaning & Quality Preparation
 
 ## Project Overview
 
