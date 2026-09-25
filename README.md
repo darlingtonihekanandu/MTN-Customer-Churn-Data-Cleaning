@@ -44,7 +44,14 @@ Key issues included missing values, exact duplicates, inconsistent
 capitalization and formatting, inconsistent subscription-plan notation,
 and incorrect data types.
 
+### Before Cleaning
+
+![Before Cleaning](Data Cleaning Screenshots/1. Dirty data.png)
+
 ## Data Cleaning Process
+### Power Query Cleaning Process
+
+![Power Query Cleaning Process](Data Cleaning Screenshots/2. Power Query + Applied Steps.png)
 
 ### Customer ID
 
@@ -134,6 +141,9 @@ investigation filters were not restricting the final dataset.
 
 The final Applied Step showed **974 rows**, confirming that the complete
 cleaned dataset was retained.
+### Final Clean Dataset
+
+![Final Clean Dataset](Data Cleaning Screenshots/3. CLEAN data.png)
 
 ## Key Data Quality Improvements
 
