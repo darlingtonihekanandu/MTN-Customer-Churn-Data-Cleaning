@@ -51,7 +51,7 @@ and incorrect data types.
 ## Data Cleaning Process
 ### Power Query Cleaning Process
 
-![Power Query Cleaning Process](./Data%20Cleaning%20Screenshots/2.%20Power%20Query%20%2B%20Applied%20Steps.png)
+![Power Query Cleaning Process](./Data%20Cleaning%20Screenshots/2.%20Power%20Query%20%2B%20Applied%20Steps%20.png)
 
 ### Customer ID
 
