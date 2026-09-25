@@ -46,12 +46,12 @@ and incorrect data types.
 
 ### Before Cleaning
 
-![Before Cleaning](Data Cleaning Screenshots/1. Dirty data.png)
+![Before Cleaning](./Data%20Cleaning%20Screenshots/1.%20Dirty%20data.png)
 
 ## Data Cleaning Process
 ### Power Query Cleaning Process
 
-![Power Query Cleaning Process](Data Cleaning Screenshots/2. Power Query + Applied Steps.png)
+![Power Query Cleaning Process](./Data%20Cleaning%20Screenshots/2.%20Power%20Query%20%2B%20Applied%20Steps.png)
 
 ### Customer ID
 
@@ -143,7 +143,7 @@ The final Applied Step showed **974 rows**, confirming that the complete
 cleaned dataset was retained.
 ### Final Clean Dataset
 
-![Final Clean Dataset](Data Cleaning Screenshots/3. CLEAN data.png)
+![Final Clean Dataset](./Data%20Cleaning%20Screenshots/3.%20CLEAN%20data.png)
 
 ## Key Data Quality Improvements
 
